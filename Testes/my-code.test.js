@@ -1,4 +1,4 @@
-const { sum, inOnerHour } = require('./my-code')
+const { sum, inOnerHour } = require('../Codigo/my-code')
 
 describe('math functions', () => {
     
